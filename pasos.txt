@@ -5,4 +5,4 @@
 5. Instalamos Browserify (/RequireJS)
 6. Mostramos en el DOM una mezcla de dos objetos en fromato JSON
 7.Lo persisitimos en el navegador
-8.Empaquetamos la aplicacion para su despliegue
+8.Empaquetamos la aplicacion para su despliegue/entrega
