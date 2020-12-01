@@ -17,6 +17,7 @@ document.addEventListener(('DOMContentLoaded'), () => {
     const contexto = miLienzo.getContext('2d');
     const configuracion = {
         type: 'line',
+        //         type: 'bar',(barras)
         data: {
             label: ['Enero','Febrero','Marzo'],
             datasets: [{
